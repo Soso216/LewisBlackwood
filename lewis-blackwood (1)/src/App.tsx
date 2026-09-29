@@ -2,7 +2,6 @@ import React, { useState, useRef, useEffect } from 'react';
 import { Send, ImagePlus, Volume2, VolumeX, X, Pencil, RotateCcw, Check, Trash2, BookOpen, Mic, Square, AudioLines, Monitor, MonitorOff, ChevronLeft, ChevronRight, Presentation, Settings, Heart, Sparkles, ListTodo, CalendarCheck, Music, Trophy, Activity, Smile, Maximize2, Minimize2, LayoutGrid, Bell, BellRing, BellOff, MousePointer2, Keyboard, Palette, Wand2, Globe, Download } from 'lucide-react';
 import Markdown from 'react-markdown';
 import { motion, AnimatePresence, useMotionValue, animate } from 'motion/react';
-import { Type } from "@google/genai";
 import { Chess } from 'chess.js';
 import { Chessboard } from 'react-chessboard';
 import { PetConfig, PetAnimationState } from './types';
