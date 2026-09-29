@@ -1,0 +1,6 @@
+{
+  "name": "Lewis Blackwood",
+  "description": "Director y dueño del Hospital Blackwood. 38 años, pianista, amante del ajedrez y tu protector personal.",
+  "requestFramePermissions": ["microphone", "display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
